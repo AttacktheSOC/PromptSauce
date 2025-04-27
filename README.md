@@ -2,7 +2,7 @@
 
 _Saucy prompts for all_
 
-Welcome to **PromptSauce** — a collection of curated, cheeky, and powerful prompts for Large Language Models (LLMs) and other AI systems. Whether you're creating, hacking, or just having fun, we've got the secret sauce you need.
+Welcome to **PromptSauce** — a collection of prompts for Large Language Models (LLMs) and other AI systems. Whether you're creating, hacking, or just having fun, we've got the secret sauce you need.
 
 ## What's Inside
 
@@ -30,10 +30,6 @@ We welcome PRs! Just follow these simple steps:
 - Open a pull request with a short description
 
 _**Please keep it fun, respectful, and spicy 🧆!**_
-
-## License
-
-[MIT License](LICENSE)
 
 ---
 
